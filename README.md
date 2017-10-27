@@ -7,7 +7,7 @@
 2: enp63s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP qlen 1000
     link/ether 00:18:fe:6e:c4:c6 brd ff:ff:ff:ff:ff:ff
     inet 157.92.51.194/22 brd 157.92.51.255 scope global dynamic enp63s0
-       valid_lft 86281sec preferred_lft 86281sec
+       valid_lft 86214sec preferred_lft 86214sec
     inet6 fe80::1cc4:164c:9d7b:d6aa/64 scope link 
        valid_lft forever preferred_lft forever
 3: virbr0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN qlen 1000
