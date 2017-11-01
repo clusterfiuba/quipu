@@ -13,7 +13,7 @@
 3: enp7s9: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UNKNOWN qlen 1000
     link/ether 00:08:54:32:5b:17 brd ff:ff:ff:ff:ff:ff
     inet 157.92.51.219/22 brd 157.92.51.255 scope global dynamic enp7s9
-       valid_lft 56652sec preferred_lft 56652sec
+       valid_lft 85562sec preferred_lft 85562sec
     inet6 fe80::247:70ed:420e:65eb/64 scope link 
        valid_lft forever preferred_lft forever
 4: virbr0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN qlen 1000
