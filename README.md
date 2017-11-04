@@ -1,5 +1,5 @@
-![](http://materias.fi.uba.ar/6625/Images/FIUBA_ALTA.jpg | width=250)
-<img src="http://etc.usf.edu/clipart/25400/25484/quipu_25484_md.gif" alt="Drawing" style="width: 50px;" align="right"/> 
+<img src="http://materias.fi.uba.ar/6625/Images/FIUBA_ALTA.jpg" alt="Drawing" width="350px" align="left"/> 
+<img src="http://etc.usf.edu/clipart/25400/25484/quipu_25484_md.gif" alt="Drawing" width="150px" align="right"/> 
 
 <br><br><br><br><br>
 # Bienvenido a QUIPU.
