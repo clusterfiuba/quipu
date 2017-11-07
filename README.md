@@ -5,4 +5,4 @@
 # Bienvenido a QUIPU.
 
 ### Para ingresar al Cluster conectese mediante SSH a la siguiente IP desde la red de la FIUBA.<br><br>
-### ``` IP: fe80::1cc4:164c:9d7b:d6aa ```
+### ``` IP: 157.92.51.219 ```
